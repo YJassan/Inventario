@@ -70,7 +70,7 @@ The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 ********
-URL DEL PROYECTO
+CONFIGURACIONES PARA EL FUNCIONAMIENTO DEL PROYECTO
 ********
 
 1. El nombre de la carpeta raíz se debe modificar de inventario-master por Inventario, esto cuando la carpeta este descomprimida.
