@@ -73,10 +73,11 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 URL DEL PROYECTO
 ********
 
-1.La url del proyecto en el momento es http://localhost:8080/inventariokc/, si el puerto es diferente al 8080, favor dirigirse a la siguiente ruta:
+1. El nombre de la carpeta raíz se debe modificar de inventario-master por Inventario, esto cuando la carpeta este descomprimida.
+2.La url del proyecto en el momento es http://localhost:8080/inventario/, si el puerto es diferente al 8080, favor dirigirse a la siguiente ruta:
 	- InventarioKc -> application -> config --> config.php --> en la línea 26 y colocar el respectivo puerto.
-2.El nombre de la base de datos es inventariokc. La configuración de la conexión a la base de datos se realiza en la siguiente ruta :
+3.El nombre de la base de datos es inventariokc. La configuración de la conexión a la base de datos se realiza en la siguiente ruta :
 	- InventarioKc -> application -> config --> database.php (hostname,username,password y database).
 
-3.Dentro de la carpeta InventarioKc existe una carpeta con el nombre de BaseDeDatos, la cual contiene el script de la base de datos hecha en MySQL.
+4.Dentro de la carpeta InventarioKc existe una carpeta con el nombre de BaseDeDatos, la cual contiene el script de la base de datos hecha en MySQL.
 
